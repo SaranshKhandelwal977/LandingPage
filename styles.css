@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
 }
+
 nav ul {
     margin-right: 40px;
 }
@@ -20,8 +21,8 @@ nav ul li {
 }
 
 .item, img{
-    height: 100% !important;
-    width:  100% !important;
+    height: 100%;
+    width:  100%;
 }
 
 .about{
